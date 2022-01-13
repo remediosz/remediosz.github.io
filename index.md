@@ -8,6 +8,7 @@
 #### [data acquisition (API application), data analysis, visualization]
 
 [View full report here](/pdf/Python_report1.pdf)
+<br><br>
 [View full codebook here](https://colab.research.google.com/drive/1MCnHu_985hMl7dknLlKqfc-beyw0ktcA?usp=sharing)
 <img src="images/python_1.jpg?raw=true"/>
 
