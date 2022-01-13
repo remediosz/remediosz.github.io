@@ -26,7 +26,15 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+### Tableau 
 
+#### Project 1 : Story of Dogs in Pittsburg
+[View full work in Tableau website here](https://public.tableau.com/app/profile/yanxi7528/viz/worksheet_16337265065280/StoryofDogsinPittsburgYanxiZeng?publish=yes)
+
+#### Project 2 : Story of ArBnB rooms in the New York city
+[View full work in Tableau website here](https://public.tableau.com/app/profile/yanxi7528/viz/hw3_16344411414210/StoryofArBnBroomsintheNewYorkcity)
+
+< img src="images/tableau.jpg?raw=true"/>
 
 
 
