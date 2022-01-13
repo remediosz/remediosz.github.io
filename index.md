@@ -34,7 +34,7 @@
 #### Project 2 : Story of ArBnB rooms in the New York city
 [View full work in Tableau website here](https://public.tableau.com/app/profile/yanxi7528/viz/hw3_16344411414210/StoryofArBnBroomsintheNewYorkcity)
 
-<img src="images/tableau4.jpg?raw=true"/>
+<img src="images/tableau5.jpg?raw=true"/>
 
 
 ---
