@@ -19,8 +19,11 @@
 <img src="images/Project2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Project 3: Stroke Prediction
+#### [EDA, supervised learning(decision tree model v.s. logistic regression model, hyperparameter tuning), unsupervised learning(K Means clustering analysis), fairness audit]
+[View full codebook here](/pdf/Stroke Prediction.pdf)
+<img src="images/3.jpg?raw=true"/>
+
 
 ---
 
