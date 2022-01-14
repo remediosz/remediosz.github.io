@@ -21,9 +21,10 @@
 ---
 #### Project 3: Stroke Prediction
 #### [EDA, supervised learning(decision tree model v.s. logistic regression model, hyperparameter tuning), unsupervised learning(K Means clustering analysis), fairness audit]
-[View full codebook here](/pdf/Stroke_Prediction.pdf)
+[View full report here](/pdf/Stroke_Prediction.pdf)
+<br><br>
+[View full codebook here](https://colab.research.google.com/drive/1zDGUliY_vuKWDiIQ2n5nSVRmNMPyh8bg?usp=sharing)
 <img src="images/3.jpg?raw=true"/>
-
 
 ---
 
@@ -35,7 +36,6 @@
 
 <img src="images/r11.jpg?raw=true"/>
 
-#### Assignment
 
 ---
 ### Tableau 
