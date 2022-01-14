@@ -55,6 +55,6 @@
 ---
 ### PPT/presentation
 #### [academic paper analysis]
-[View full presentation here](/pdf/Presentation_Yanxi Zeng_1224.pdf)
+[View full presentation here](/pdf/Presentation_YanxiZeng_1224.pdf)
 <img src="images/5.jpg?raw=true"/>
 
