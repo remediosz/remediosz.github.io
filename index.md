@@ -21,7 +21,7 @@
 ---
 #### Project 3: Stroke Prediction
 #### [EDA, supervised learning(decision tree model v.s. logistic regression model, hyperparameter tuning), unsupervised learning(K Means clustering analysis), fairness audit]
-[View full codebook here](/pdf/Stroke Prediction.pdf)
+[View full codebook here](/pdf/Stroke_Prediction.pdf)
 <img src="images/3.jpg?raw=true"/>
 
 
