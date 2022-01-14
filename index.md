@@ -22,13 +22,15 @@
 
 ---
 
-### Category Name 2
+### R/RStudio
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### Project 1 : Do race, family income, the one-child situation in the family, and mother’s education influence children’s school choice options? 
+#### [logistic regression modeling, model fit assessment]
+[View full report with codebook here](/pdf/Python_report1.pdf)
+
+<img src="images/r11.jpg?raw=true"/>
+
+#### Assignment
 
 ---
 ### Tableau 
