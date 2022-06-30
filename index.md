@@ -32,7 +32,7 @@
 
 #### Project 1: Do race, family income, the one-child situation in the family, and mother’s education influence children’s school choice options? 
 #### [logistic regression modeling, model fit assessment]
-[View full report with codebook here](/pdf/YanxiZeng_report4.pdf.pdf)
+[View full report with codebook here](/pdf/YanxiZeng_report4.pdf)
 
 <img src="images/r11.jpg?raw=true"/>
 
